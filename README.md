@@ -1,2 +1,2 @@
-# Movies-Recommendor-System
+# Movies-Recommender-System
 ## Created By:- Nikhil kaushik
